@@ -13,6 +13,5 @@ The project replicates the given design while including email validation and a r
   - Invalid email addresses.  
 - **Responsive Layout** – Optimized for mobile, tablet, and desktop.  
 - **Hover & Focus States** – Interactive elements styled for better UX.  
-- **Footer Section** – Includes navigation and social media links.  
 
 ---
